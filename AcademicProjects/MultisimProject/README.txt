@@ -1,0 +1,1 @@
+Using Multisim, which is a software for circuit design, in this project we had a single digit display and we had to program it to display my student number through flashes on the display. For this design I had to include multiple logical gates and flip-flops.
