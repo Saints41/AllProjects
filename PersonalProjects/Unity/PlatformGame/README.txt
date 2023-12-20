@@ -1,0 +1,1 @@
+This is my first ever unity game. It is very bare bone and just simple blocks and physics for jumping and collisions. This is used to get a better understanding on the game engine and C# so i can work on the game I initially wanted to.
